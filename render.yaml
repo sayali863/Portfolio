@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sayali-portfolio
+    env: static
+    buildCommand: ""
+    staticPublishPath: ./
